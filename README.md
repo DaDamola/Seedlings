@@ -1,3 +1,3 @@
 # Seedlings
 
-This repo contains the Pong and Maze minigames of the Seedlings 2DS application that are used to teach high school students how to code through conditionals and object movement, respectively.
+This repo contains the Pong and Maze minigames of the Seedlings 2DS application that are used to teach high school students how to code through conditionals and object movement, respectively. They were made using C++, tested with the Citra emulator, and run on the 2DS using devkitpro. The m3diaLib libraries provided objects and shapes to render the graphics and develop the game.
